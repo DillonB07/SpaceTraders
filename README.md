@@ -1,3 +1,5 @@
+> ***This is a Work In Progress and is NOT ready for use. You may come across bugs, missing features, etc.***
+
 # SpaceTraders
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DillonB07/SpaceTraders)
