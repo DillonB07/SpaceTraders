@@ -1,4 +1,17 @@
-html {
-    background-color: cyan;
+body{
+    background-color:rgb(250, 238, 224);
     text-align: center;
+    font-family:'Open Sans', sans-serif;
+    font-size:15px;
+    font-weight:600;
+    
 }
+
+.container{
+    width: 100%;
+    max-width: 414px;
+    margin: 0 auto;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@600&family=Poppins:wght@400;500&family=Raleway:wght@300&family=Roboto:wght@300&display=swap');
