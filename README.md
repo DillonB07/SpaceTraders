@@ -1,6 +1,6 @@
 > ***This is a Work In Progress and is NOT ready for use. You may come across bugs, missing features, etc.***
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # SpaceTraders
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Vladislava05"><img src="https://avatars.githubusercontent.com/u/92907522?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vladislava Cherkasova</b></sub></a><br /><a href="#design-Vladislava05" title="Design">🎨</a></td>
+    <td align="center"><a href="https://dillonb07.is-a.dev"><img src="https://avatars.githubusercontent.com/u/83948303?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dillon Barnes</b></sub></a><br /><a href="https://github.com/DillonB07/SpaceTraders/commits?author=DillonB07" title="Code">💻</a> <a href="#infra-DillonB07" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#ideas-DillonB07" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-DillonB07" title="Project Management">📆</a> <a href="https://github.com/DillonB07/SpaceTraders/pulls?q=is%3Apr+reviewed-by%3ADillonB07" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
