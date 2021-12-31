@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Vladislava05",
+      "name": "Vladislava Cherkasova",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92907522?v=4",
+      "profile": "https://github.com/Vladislava05",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "SpaceTraders",
+  "projectOwner": "DillonB07",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
